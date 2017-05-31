@@ -1,23 +1,14 @@
 {
   "name": "@sviat/json",
-  "version": "1.0.1",
+  "version": "1.3.0",
   "main": "index.js",
   "scripts": {
-    "test": " node test.js"
+    "test": " node  test.js"
   },
   "author": "",
   "license": "ISC",
-  "description": "Readm me file.  Created by Sviatoslav Shabalin 31.05.2017",
+  "description": "",
   "dependencies": {
-    "@linclark/pkg": "^1.1.2"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shabalin-sviatoslav/workspace.git"
-  },
-  "bugs": {
-    "url": "https://github.com/shabalin-sviatoslav/workspace/issues"
-  },
-  "homepage": "https://github.com/shabalin-sviatoslav/workspace#readme"
+    "@linclark/pkg": "^1.0.2"
+  }
 }

@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "Readm me file.  Created by Sviatoslav Shabalin 31.05.2017",
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
+    "@linclark/pkg": "^1.1.2"
   },
   "devDependencies": {},
   "repository": {

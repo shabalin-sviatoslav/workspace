@@ -7,8 +7,17 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Readm me file.  Created by Sviatoslav Shabalin 31.05.2017",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabalin-sviatoslav/workspace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shabalin-sviatoslav/workspace/issues"
+  },
+  "homepage": "https://github.com/shabalin-sviatoslav/workspace#readme"
 }
